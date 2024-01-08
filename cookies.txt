@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+swiftsecure.net	TRUE	/	FALSE	1999999999	PHPSESSID	70d115a57d27176d817302c14b652f82
+

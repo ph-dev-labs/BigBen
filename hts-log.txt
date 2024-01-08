@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 08 Jan 2024 07:18:38 at https://swiftsecure.net/ nwosuchimezie95%40gmail.com:Neymar%4011@https://swiftsecure.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DdK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://swiftsecure.net/ nwosuchimezie95%40gmail%2ecom:Neymar%4011@https://swiftsecure.net/ -O1 "C:\My Web Sites\Ben" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:19:04	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+07:19:21	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/nwosuchimezie95%40gmail.com:Neymar%4011@https://swiftsecure.net/ (from primary/primary)
+07:27:52	Error: 	"Forbidden" (403) at link https://swiftsecure.net/backend/index (from https://swiftsecure.net/)
+07:28:08	Error: 	"Forbidden" (403) at link https://swiftsecure.net/backend/contact (from https://swiftsecure.net/)
+07:28:25	Error: 	"Not Found" (404) at link https://swiftsecure.net/t&c (from https://swiftsecure.net/)
+07:28:25	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/c2woar8nclzxeept9qvbfztyridld6rj.js (from https://swiftsecure.net/)
+07:28:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/nwosuchimezie95%40gmail.com:Neymar%4011@https://swiftsecure.net/ (from primary/primary)
+07:28:28	Error: 	"Not Found" (404) at link https://swiftsecure.net/assets/vendors/images/icon/bx_loader.html (from https://swiftsecure.net/assets/vendors/bxslider/jquery.bxslider.css)
+07:28:28	Error: 	"Not Found" (404) at link https://swiftsecure.net/assets/vendors/img/bx-slider/controls.html (from https://swiftsecure.net/assets/vendors/bxslider/jquery.bxslider.css)
+07:28:30	Error: 	"Not Found" (404) at link https://swiftsecure.net/assets/vendors/owl-carousel/owl.video.play.html (from https://swiftsecure.net/assets/vendors/owl-carousel/owl.carousel.min.css)
+07:28:30	Error: 	"Not Found" (404) at link https://swiftsecure.net/assets/vendors/vegas/overlays/02.html (from https://swiftsecure.net/assets/vendors/vegas/vegas.min.css)
+07:28:30	Error: 	"Not Found" (404) at link https://swiftsecure.net/assets/assets/language-switcher/gb.html (from https://swiftsecure.net/assets/vendors/language-switcher/polyglot-language-switcher.css)
+07:28:30	Error: 	"Not Found" (404) at link https://swiftsecure.net/assets/assets/language-switcher/fr.html (from https://swiftsecure.net/assets/vendors/language-switcher/polyglot-language-switcher.css)
+07:28:30	Error: 	"Not Found" (404) at link https://swiftsecure.net/assets/assets/language-switcher/de.html (from https://swiftsecure.net/assets/vendors/language-switcher/polyglot-language-switcher.css)
+07:28:30	Error: 	"Not Found" (404) at link https://swiftsecure.net/assets/assets/language-switcher/it.html (from https://swiftsecure.net/assets/vendors/language-switcher/polyglot-language-switcher.css)
+07:28:30	Error: 	"Not Found" (404) at link https://swiftsecure.net/assets/assets/language-switcher/es.html (from https://swiftsecure.net/assets/vendors/language-switcher/polyglot-language-switcher.css)
+07:28:30	Error: 	"Not Found" (404) at link https://swiftsecure.net/loan-home (from https://swiftsecure.net/cards)
+07:28:30	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/c2woar8nclzxeept9qvbfztyridld6rj.js (from https://swiftsecure.net/)
+07:28:30	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/nwosuchimezie95%40gmail.com:Neymar%4011@https://swiftsecure.net/ (from primary/primary)
+07:28:31	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/c2woar8nclzxeept9qvbfztyridld6rj.js (from https://swiftsecure.net/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 53 seconds : 217 links scanned, 196 files written (20889784 bytes overall), 26 files updated [2329215 bytes received at 3927 bytes/sec], 1176754 bytes transferred using HTTP compression in 39 files, ratio 16%, 1.5 requests per connection
+(16 errors, 4 warnings, 0 messages)
