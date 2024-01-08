@@ -586,9 +586,9 @@
     left: 0;
     width: 100%;
     height: 4px;
-    background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-    background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-    background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+    background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+    background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+    background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
     z-index: -1;
 }
 

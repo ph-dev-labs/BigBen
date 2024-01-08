@@ -697,9 +697,9 @@ Blog Style1 Area Css
     bottom: 0;
     right: 0;
     height: 2px;
-    background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-    background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-    background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+    background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+    background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+    background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
 }
 
 
@@ -1664,9 +1664,9 @@ Blog Style1 Area Css
     bottom: -50px;
     width: 180px;
     height: 270px;
-    background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-    background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-    background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+    background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+    background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+    background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
     clip-path: polygon(0 50%, 100% 100%, 100% 0);
     z-index: -1;
 }

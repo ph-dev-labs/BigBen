@@ -37,7 +37,7 @@
 }
 
 .slider-buttom-box a:hover {
-    background-color: #078035;
+    background-color: #FF0080;
 }
 
 .slider-buttom-box a+a {
@@ -45,7 +45,7 @@
 }
 
 .slider-buttom-box a.style2 {
-    background-color: #078035;
+    background-color: #FF0080;
 }
 
 .slider-buttom-box a.style2:hover {

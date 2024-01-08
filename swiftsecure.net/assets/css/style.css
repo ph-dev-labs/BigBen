@@ -23,7 +23,7 @@
 :root {
   --thm-font: 'Manrope', sans-serif;
   --thm-font-2: 'DM Sans', sans-serif;
-  --thm-base: #01c94c;
+  --thm-base:#FF0080;
   --thm-base-rgb: 207, 23, 60;
   --thm-gray: #7f7873;
   --thm-gray-rgb: 127, 120, 115;
@@ -1391,9 +1391,9 @@ animation: spinner 1s infinite linear;
   transform: scale(0);
   transition: all 200ms linear;
   transition-delay: 0.1s;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
   border-radius: 50%;
   z-index: -1;
 }
@@ -1481,9 +1481,9 @@ animation: spinner 1s infinite linear;
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
   color: #ffffff;
   font-size: 35px;
   transition: all 200ms linear;
@@ -1750,9 +1750,9 @@ animation: spinner 1s infinite linear;
   bottom: 0;
   width: 0px;
   transition: all 900ms ease 100ms;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
 }
 
 .single-service-box-style1:hover .border-box:after {
@@ -1809,9 +1809,9 @@ animation: spinner 1s infinite linear;
   left: -1px;
   bottom: -1px;
   right: -1px;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
 
   transform: perspective(400px) translateY(-40px) scale(1.0);
   transform-style: preserve-3d;
@@ -2236,7 +2236,7 @@ animation: spinner 1s infinite linear;
 
 .features-style2-tab__button .tabs-button-box .tab-btn-item:hover .single-features-box-style2 .icon span,
 .features-style2-tab__button .tabs-button-box .tab-btn-item.active-btn-item .single-features-box-style2 .icon span {
-  background: -webkit-linear-gradient(#01c94c, #21ca62);
+  background: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -2513,9 +2513,9 @@ animation: spinner 1s infinite linear;
   left: 0;
   bottom: -40px;
   right: 0;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 20% 50%);
   z-index: -2;
 }
@@ -3361,9 +3361,9 @@ animation: spinner 1s infinite linear;
   right: 20px;
   bottom: 0;
   width: 200px;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
   clip-path: polygon(40% 0, 70% 0%, 110% 50%, 100% 100%, 70% 100%, 90% 51%);
   z-index: 1;
 }
@@ -3500,9 +3500,9 @@ animation: spinner 1s infinite linear;
   transform: scale(0);
   transform-style: preserve-3d;
   transition: all 0.4s cubic-bezier(0.62, 0.21, 0.45, 1.52);
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
   z-index: -1;
 }
 
@@ -3645,9 +3645,9 @@ animation: spinner 1s infinite linear;
 
 .price-range-box .price-range-slider .ui-slider-range {
   border-radius: 0;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
 }
 
 .price-range-box .price-range-slider.ui-slider .ui-slider-handle {
@@ -3661,7 +3661,7 @@ animation: spinner 1s infinite linear;
   cursor: pointer;
   margin-left: 0px;
   background-image: none;
-  background-color: rgb(33, 233, 15);
+  background-color: #FF0080;
   outline: none;
 }
 
@@ -3742,9 +3742,9 @@ animation: spinner 1s infinite linear;
 
 .loan-term-range-box .loan-term-range-slider .ui-slider-range {
   border-radius: 0;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
 }
 
 .loan-term-range-box .loan-term-range-slider.ui-slider .ui-slider-handle {
