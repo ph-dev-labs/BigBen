@@ -3834,9 +3834,9 @@ animation: spinner 1s infinite linear;
 
 .interest-rate-range-box .interest-rate-range-slider .ui-slider-range {
   border-radius: 0;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
 }
 
 .interest-rate-range-box .interest-rate-range-slider.ui-slider .ui-slider-handle {
@@ -4068,9 +4068,9 @@ animation: spinner 1s infinite linear;
 }
 
 .emi-calculator-tab--style2 .emi-calculator-tab__button .tabs-button-box .tab-btn-item .icon-box:before {
-  background-image: -moz-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -webkit-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -ms-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
 }
 
 .emi-calculator-tab--style2 .emi-calculator-tab-content-box-outer {
@@ -4081,9 +4081,9 @@ animation: spinner 1s infinite linear;
 
 
 .emi-calculator-tab--style2 .price-range-box .price-range-slider .ui-slider-range {
-  background-image: -moz-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -webkit-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -ms-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
 }
 
 .emi-calculator-tab--style2 .price-range-box .price-range-slider.ui-slider .ui-slider-handle {
@@ -4100,9 +4100,9 @@ animation: spinner 1s infinite linear;
 
 
 .emi-calculator-tab--style2 .loan-term-range-box .loan-term-range-slider .ui-slider-range {
-  background-image: -moz-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -webkit-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -ms-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
 }
 
 .emi-calculator-tab--style2 .loan-term-range-box .loan-term-range-slider.ui-slider .ui-slider-handle {
@@ -4119,9 +4119,9 @@ animation: spinner 1s infinite linear;
 
 
 .emi-calculator-tab--style2 .interest-rate-range-box .interest-rate-range-slider .ui-slider-range {
-  background-image: -moz-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -webkit-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -ms-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
 }
 
 .emi-calculator-tab--style2 .interest-rate-range-box .interest-rate-range-slider.ui-slider .ui-slider-handle {
@@ -4809,9 +4809,9 @@ animation: spinner 1s infinite linear;
   left: 0;
   bottom: 0;
   right: 0;
-  background-image: -moz-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 70%);
-  background-image: -webkit-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 70%);
-  background-image: -ms-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 70%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);;
   clip-path: polygon(0 0, 100% 110px, 100% 100%, 0% 100%);
   z-index: -1;
 }
@@ -5239,9 +5239,9 @@ animation: spinner 1s infinite linear;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: -moz-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -webkit-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -ms-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
+  background-image: -moz-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
 }
 
 .faq-question-btn p {
@@ -5543,9 +5543,9 @@ animation: spinner 1s infinite linear;
   left: 0;
   bottom: 0;
   right: 0;
-  background-image: -moz-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -webkit-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
-  background-image: -ms-linear-gradient(180deg, rgb(37, 184, 93) 0%, rgb(2, 136, 53) 100%);
+  background-image: -moz-llinear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -webkit-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
+  background-image: -ms-linear-gradient(310deg, #7928CA 0%, #FF0080 100%);
   border-radius: 50%;
   transition: all 300ms linear;
   transition-delay: 0.2s;
@@ -5660,9 +5660,9 @@ animation: spinner 1s infinite linear;
   margin-left: 10px;
   width: 70px;
   height: 1px;
-  background-image: -moz-linear-gradient(0deg, rgb(37, 184, 93) 0%, rgba(37, 184, 93, 0) 100%);
-  background-image: -webkit-linear-gradient(0deg, rgb(37, 184, 93) 0%, rgba(37, 184, 93, 0) 100%);
-  background-image: -ms-linear-gradient(0deg, rgb(37, 184, 93) 0%, rgba(37, 184, 93, 0) 100%);
+  background-image: -moz-linear-gradient(0deg, #7928CA 0%, rgba(37, 184, 93, 0) 100%);
+  background-image: -webkit-linear-gradient(0deg, #7928CA 0%, rgba(37, 184, 93, 0) 100%);
+  background-image: -ms-linear-gradient(0deg, #7928CA 0%, rgba(37, 184, 93, 0) 100%);
 }
 
 .single-offer-box h3 {
@@ -7385,9 +7385,9 @@ li.single-benefits-box-colum:nth-child(6) .single-benefits-box .icon {
   position: relative;
   display: block;
   padding: 40px 50px 45px;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(0deg, ##7928CA 0% 0%, #21ca62 100%);
+  background-image: -webkit-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -ms-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
 }
 
 .statements-text-box .shape {
@@ -8366,9 +8366,9 @@ li.single-benefits-box-colum:nth-child(6) .single-benefits-box .icon {
 .resume-box__two {
   position: relative;
   display: block;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -webkit-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -ms-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
   padding: 40px 30px 40px;
   z-index: 1;
 }
@@ -8829,7 +8829,7 @@ li.single-benefits-box-colum:nth-child(6) .single-benefits-box .icon {
 }
 
 .overview-content-box-two .inner-title h5 {
-  color: #01c94c;
+  color: #7928CA 0%;
   font-size: 18px;
   line-height: 20px;
   margin: 0 0 4px;
@@ -9430,9 +9430,9 @@ li.single-benefits-box-colum:nth-child(6) .single-benefits-box .icon {
   position: relative;
   display: block;
   padding: 100px 0 100px;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -webkit-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -ms-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
   z-index: 1;
 }
 
@@ -9649,9 +9649,9 @@ li.single-benefits-box-colum:nth-child(6) .single-benefits-box .icon {
   left: 0px;
   bottom: 0px;
   right: 0;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -webkit-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -ms-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
   transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
   transition: transform 0.4s ease, -webkit-transform 0.4s ease;
@@ -10100,9 +10100,9 @@ li.single-benefits-box-colum:nth-child(6) .single-benefits-box .icon {
   bottom: 0px;
   right: 0;
 
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -webkit-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -ms-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
 
   transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
@@ -10208,9 +10208,9 @@ li.single-benefits-box-colum:nth-child(6) .single-benefits-box .icon {
   position: absolute;
   top: -15px;
   right: 20px;
-  background-image: -moz-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -webkit-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
-  background-image: -ms-linear-gradient(0deg, #01c94c 0%, #21ca62 100%);
+  background-image: -moz-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -webkit-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
+  background-image: -ms-linear-gradient(0deg, #7928CA 0% 0%, #21ca62 100%);
   color: #ffffff;
   font-size: 16px;
   font-weight: 500;
@@ -10322,7 +10322,7 @@ li.single-benefits-box-colum:nth-child(6) .single-benefits-box .icon {
   left: 0px;
   width: 6px;
   height: 6px;
-  background-color: #01c94c;
+  background-color: #7928CA 0%;
   border-radius: 2px;
 }
 
